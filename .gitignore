@@ -1,0 +1,11 @@
+# Generated and machine-specific Android files
+**/.gradle/
+**/.idea/
+**/.kotlin/
+**/build/
+**/local.properties
+**/.externalNativeBuild/
+**/.cxx/
+*.iml
+.DS_Store
+Thumbs.db
